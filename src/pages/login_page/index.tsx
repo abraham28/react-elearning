@@ -28,7 +28,7 @@ const LoginPage = () => {
           <EzTextField icon={<MdLock />} placeholder="Password" />
         </Margin>
         <SignInContainer>
-          <SignInButton>Sign In</SignInButton>
+          <SignInButton>Sign In and Out</SignInButton>
         </SignInContainer>
         <SignUpContainer>
           <SignUpText>
